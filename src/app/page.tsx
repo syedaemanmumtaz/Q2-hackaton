@@ -22,7 +22,7 @@ function Header() {
       <Navbar />
       <Hero />
     <AbountUs />
-    {/* { { <FoodCategory /> } */}
+    <FoodCategory /> 
     <Items />
 
     <MenuItem />
@@ -32,7 +32,7 @@ function Header() {
     <RestaurantActive />
     <Blog />
     
-      <Footer /> */}
+      <Footer />
     </>
   );
 }
